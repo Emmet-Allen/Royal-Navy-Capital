@@ -1,3 +1,16 @@
+# Royal Navy Capital: Online Banking Landing and Sign-In Page
+
+This project was created using React, SCSS, and Stylized Components. 
+Deployed Using Netlify: 
+
+The general theme for this project was to get re-acquinted with Web Development, specifically Front End Development.
+React was used for its ease of modularity through the use of conternization via components using the Flux Paradigm to ensure maximum code maintainability and unidirectional data flow.
+React Stylized Components was used for out-of-the-box intergration with React, further improving on Reacts' modularity by including styling that can be containerized to specific components and further reinforcing the Flux Paradigm.
+SCSS was used for its pre-processing styling power, enabling the use of global variables and import to be used within a master-style sheet, creating reinforced style containerization for general Web Components when necesscary. 
+React Router was also used to minimize server calls within the page itself by manipulating the DOM of single page applications, useful for controling progressive resolution
+views between pages. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
