@@ -1,7 +1,7 @@
 # Royal Navy Capital: Online Banking Landing and Sign-In Page
 
 This project was created using React, SCSS, and Stylized Components. 
-Deployed Using Netlify: 
+Deployed Using Netlify: royal-navy-capital.netlify.app
 
 The general theme for this project was to get re-acquinted with Web Development, specifically Front End Development.
 React was used for its ease of modularity through the use of conternization via components using the Flux Paradigm to ensure maximum code maintainability and unidirectional data flow.
