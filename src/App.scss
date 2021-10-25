@@ -1,0 +1,38 @@
+@import "src/sass/variables.scss";
+
+//Super Useful for handling things that aren't exactly components
+// Nor are pesky to implement without altering re-used component styles i.e. '.email' style tag
+
+h1{
+    font-family: $H1-font;
+}
+
+p{
+    font-family: $P-font;
+}
+
+a{
+    font-family: $H1-font;
+    color: $white;
+}
+
+.email{
+    text-align: center;
+    padding-top: 32px;
+    
+    &:hover{
+        color:$yellow;
+    }
+}
+
+a, u{
+    text-decoration: none;
+}
+
+body{
+    color: $whitesmoke; 
+}
+
+label{
+    font-family: $H1-font;
+}

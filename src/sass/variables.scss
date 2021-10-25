@@ -1,0 +1,36 @@
+// I ended up going with and learning styled variables cause its basically built in SCSS for React
+// But eh, I'll use these for more global style changes. 
+
+
+// --------------------- Variables -------------------------- 
+
+// Google Fonts Import
+
+//Lora
+
+// H1-Font
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@600&family=Roboto+Slab&display=swap');
+
+// Roboto Slab
+
+// P-Font
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+// Colors
+$navy-blue: #000099;
+$yellow: #f1f104fd;
+$svg-yellow: #EAF931;
+$svg-blue: #000099;
+
+
+//Grays
+$white: #ffffff;
+$off-white: #f8f8ff;
+$whitesmoke: #F5F5F5;
+$black: #000000; 
+$off-black: #010606;
+
+
+// Fonts
+$H1-font: 'Lora', serif;
+$P-font: 'Roboto Slab', serif;
